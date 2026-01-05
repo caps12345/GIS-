@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherApp_FGH", "WeatherApp_FGH\WeatherApp_FGH.csproj", "{2873725E-671C-433A-A78B-5DCFB38F76AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2873725E-671C-433A-A78B-5DCFB38F76AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2873725E-671C-433A-A78B-5DCFB38F76AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2873725E-671C-433A-A78B-5DCFB38F76AB}.Debug|x64.ActiveCfg = Release|x64
+		{2873725E-671C-433A-A78B-5DCFB38F76AB}.Debug|x64.Build.0 = Release|x64
+		{2873725E-671C-433A-A78B-5DCFB38F76AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2873725E-671C-433A-A78B-5DCFB38F76AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2873725E-671C-433A-A78B-5DCFB38F76AB}.Release|x64.ActiveCfg = Release|x64
+		{2873725E-671C-433A-A78B-5DCFB38F76AB}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7816C75B-AA50-400F-A910-01DF05F9DDBD}
+	EndGlobalSection
+EndGlobal
